@@ -29,3 +29,8 @@ body,html{overflow-x:hidden}.rating-stars,a,a:active,a:focus,a:visited{-webkit-u
 .fa {
   font-family: 'FontAwesome';
 }
+.star-rating i {
+  color: #ffba16;
+  font-size: 22px;
+  margin-right: 3px;
+}
